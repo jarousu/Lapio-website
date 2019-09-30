@@ -1,1 +1,12 @@
-p { background-color: red; }
+* {
+  color: darkRed;
+ }
+h1 {
+  color: Blue;
+ }
+#tägi {
+  color: red;
+ }
+.lista {
+  color: plum;
+  }
